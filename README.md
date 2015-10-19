@@ -9,9 +9,9 @@ Open source Python3 library/module which contains the next 3 API's
 
 Grand Exchange data can be received via multiple ways.
 The easiest one to use is
-
+'''
 x = runescape.grand_exchange.getprice(4798)
-
+'''
 ^gets the price for the item ID 4798
 
 #Highscores use
