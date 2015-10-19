@@ -33,11 +33,14 @@ x = runescape.bestiary.getcombatlevel(49)
 #Official website
 
 http://runescapemodule.webs.com/python3-runescape-module
+
 ^for the official documentation.
 
 http://runescapemodule.webs.com/download
+
 ^download page for the latest version of the module
 
 http://runescapemodule.webs.com/changelog
+
 ^Changelog to see what's changed and when, updates and recent changes.
 
