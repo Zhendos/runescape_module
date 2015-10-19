@@ -9,25 +9,25 @@ Open source Python3 library/module which contains the next 3 API's
 
 Grand Exchange data can be received via multiple ways.
 The easiest one to use is
-'''
+```Python
 x = runescape.grand_exchange.getprice(4798)
-'''
+```
 ^gets the price for the item ID 4798
 
 #Highscores use
 
 For the highscore use is the easiest way to use:
-
+```Python
 x = runescape.attacklevel.getattacklevellevel('itz_craft')
-
+```
 ^gets the real attack level for the player iTz CrafT.
 
 #Bestiary use
 
 For the Bestiary the easiest way to use is:
-
+```Python
 x = runescape.bestiary.getcombatlevel(49)
-
+```
 ^Gets the combat level for the NPC ID 49.
 
 #Official website
